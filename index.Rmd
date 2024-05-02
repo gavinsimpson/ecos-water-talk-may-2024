@@ -489,7 +489,7 @@ pamm(ped_status ~
     s(tend, bs = 'cr', k = 10) +
     s(year, bs = 'cr', k = 10) +
     s(tend, lake, bs = 'fs', k = 10) +
-    s(Year, lake, bs = 'fs', k = 10) +
+    s(year, lake, bs = 'fs', k = 10) +
     s(long, lat, bs = 'ds', k = 20) +
     ti(tend, Year, bs = 'cr', k = c(5, 5)) +
     ti(tend, long, lat, bs = c('cr', 'ds'), d = c(1, 2), k = c(5, 5)) +
