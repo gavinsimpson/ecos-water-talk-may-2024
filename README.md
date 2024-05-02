@@ -10,7 +10,7 @@
 
 If you make use of the presentation, please cite as:
 
-> Simpson, G. L., & Mezzini, S. (2023). _Trends in ice cover of northern hemisphere lakes_. **Water Talks**, Department of Ecoscience, Aarhus University. May 2, 2024
+> Simpson, G. L., & Mezzini, S. (2024). _Trends in ice cover of northern hemisphere lakes_. **Water Talks**, Department of Ecoscience, Aarhus University. May 2, 2024
 
 Unless indicated otherwise, reuse of this presentation is licensed under a [Creative Commons By Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/legalcode).
 
